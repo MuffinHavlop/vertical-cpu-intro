@@ -1,0 +1,54 @@
+body{
+    background-image: url("motherboard-internal-4k-k7.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color:black;
+    text-align: center;
+    border: solid black;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    width: 400px;
+    
+}
+h2{
+    color: black;
+    border-style: line ;
+    border-width: 5px;
+    border-color: "blanchedalmond";
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    
+ }
+ #model{
+    color: black;
+   border-style: line ;
+   border-width: 5px;
+   border-color: blanchedalmond;
+   border-radius: 10px;
+   padding: 5px;
+   background-color: blanchedalmond;
+   width: 260px;
+   height: 30px;
+}
+div{
+    color: black;
+   border-style: solid ;
+   border-width: 2px;
+   border-color:"blanchedalmond";
+   border-radius: 10px;
+   padding: 5px;
+   background-color: blanchedalmond;
+   width: 850px;
+
+}
+#img1{
+    margin-left: 950px;
+    margin-top: -999px;
+}
+#img2{
+    margin-left: 950px;
+}
